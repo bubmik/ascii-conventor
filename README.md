@@ -27,6 +27,7 @@ Instead of pixels, the image is drawn using text characters, giving a classic AS
 - Written in C++
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f75ddb4-7ec4-4c1b-bd98-83db9a597429" />
 
 
 ## Requirements
@@ -37,6 +38,7 @@ Instead of pixels, the image is drawn using text characters, giving a classic AS
 - C++ compiler (only if building from source)
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ceac74db-6c92-4f6f-aa82-6b3367f46c4c" />
 
 ## RUN
 
