@@ -1,5 +1,8 @@
 # ASCII Converter (Video to ASCII)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14d2e3c4-d410-43e5-a94f-7837ee16e24b" />
+
+
 ASCII Converter is a C++ console application that converts a video file into ASCII art and plays it directly in the Command Prompt (CMD)
 
 The program processes the video frame by frame and renders it using text characters, creating a retro terminal-style animation
@@ -24,6 +27,7 @@ Instead of pixels, the image is drawn using text characters, giving a classic AS
 - Written in C++
 
 ---
+
 
 ## Requirements
 
